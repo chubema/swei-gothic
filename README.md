@@ -52,3 +52,7 @@ https://github.com/justfont/open-huninn-font
 https://github.com/max32002/FakePearl
 * 俊羽圓體
 https://github.com/max32002/YuPearl
+* 二點之間內縮後坐標
+https://max-everyday.com/2020/04/two-point-extend/
+* 筆畫交叉的判斷
+https://max-everyday.com/2020/04/stroke-join-check/
