@@ -46,6 +46,8 @@ https://max-everyday.com/2020/03/naikaifont/
 https://max-everyday.com/2020/03/bakudaifont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
+* 源泉圓體
+https://github.com/ButTaiwan/gensen-font
 * jf open 粉圓
 https://github.com/justfont/open-huninn-font
 * 假粉圓體
